@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Read a book",
+        "isFinished": false
+    },
+    {
+        "id": 2,
+        "title": "Wash the dishes",
+        "isFinished": true
+    },
+    {
+        "id": 3,
+        "title": "Play with the kids",
+        "isFinished": false
+    },
+    {
+        "id": 4,
+        "title": "Go to the barber",
+        "isFinished": false
+    },
+    {
+        "id": 5,
+        "title": "Buy fruits",
+        "isFinished": true
+    }
+]
